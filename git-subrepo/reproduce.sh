@@ -2,7 +2,7 @@
 
 # https://stackoverflow.com/questions/79400970/git-subtree-conflict-resolution
 
-# Need to move this out  of the snippets repo!
+# Needs to execute in a folder that's NOT a git repo
 
 # cleanup
 gio trash mainrepo
