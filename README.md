@@ -1,2 +1,2 @@
-# snippets
+# Snippets
 Short snippets to share
