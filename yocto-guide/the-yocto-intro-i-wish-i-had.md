@@ -2,6 +2,17 @@
 
 > Yocto makes it *easy* (instead of hard) to build a custom Linux distro. 
 > But Yocto is freaking *complex* (instead of simple).
+>
+TODO: image for this
+```
+      ^
+easy  | Yocto         Eat pie
+      |
+      |
+hard  | Fly plane     Hold breath for 5 minutes
+      +-------------------->
+       complex        simple
+```
 
 Trying to work with Yocto, while relying mainly on trial-and-error, Google or ChatGPT will be a waste of your time.
 You have to understand some concepts first, e.g. by reading documentation, reading Stackoverflow  or trying out simple examples.
@@ -22,3 +33,4 @@ The hard question is: how to do better? I'll start by listing the tools and meth
 
 Things to understand
 - Good one
+
