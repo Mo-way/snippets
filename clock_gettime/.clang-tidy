@@ -1,0 +1,11 @@
+UseColor: true
+WarningsAsErrors: "*"
+FormatStyle: 'file'
+Checks: >
+  -*,
+  readability-identifier-naming,
+  bugprone-*,
+  ccoreguidelines-*,
+  google-*,
+  performance-*
+
