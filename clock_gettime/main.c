@@ -13,7 +13,8 @@ uint64_t getTimeLatencyNs() {
 }
 
 int main(void) {
-    uint64_t runs = 1000;
+    // uint64_t runs = 1; // for -p function_graph
+    uint64_t runs = 1000000;
     uint64_t sum = 0;
     uint64_t max = 0;
     for (int i = 0; i < runs; i++) {
